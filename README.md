@@ -96,5 +96,5 @@ Visit `http://localhost:5173/` in your browser.
 ## 👨‍💻 Creator & Community
 
 Created with ❤️ by **AI with Jeevan**.  
-Connect on [Instagram](https://instagram.com) • [YouTube](https://youtube.com) • [LinkedIn](https://linkedin.com) • [GitHub](https://github.com/kjeevankumar)  
+Connect on [Instagram](https://www.instagram.com/aiwithjeevan_/) • [YouTube](https://youtube.com/@aiwithjeevan944?si=-52JlH54lxd3FLOG) • [LinkedIn](https://www.linkedin.com/in/kjeevankumar944/) • [GitHub](https://github.com/kjeevankumar)  
 `#AIwithJeevan` `#90DaysOfAIML`

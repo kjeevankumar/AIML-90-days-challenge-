@@ -56,7 +56,7 @@ export const AboutSection: React.FC = () => {
 
         <div className="flex flex-wrap items-center justify-center gap-3">
           <a
-            href="https://instagram.com"
+            href="https://www.instagram.com/aiwithjeevan_/"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 px-4 py-2.5 bg-gradient-to-r from-purple-500 to-pink-500 text-white font-bold text-xs sm:text-sm rounded-xl shadow-sm hover:opacity-95 transition-opacity"
@@ -66,7 +66,7 @@ export const AboutSection: React.FC = () => {
           </a>
 
           <a
-            href="https://youtube.com"
+            href="https://youtube.com/@aiwithjeevan944?si=-52JlH54lxd3FLOG"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 px-4 py-2.5 bg-red-600 text-white font-bold text-xs sm:text-sm rounded-xl shadow-sm hover:bg-red-700 transition-colors"
@@ -76,7 +76,7 @@ export const AboutSection: React.FC = () => {
           </a>
 
           <a
-            href="https://github.com"
+            href="https://github.com/kjeevankumar"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 px-4 py-2.5 bg-slate-800 text-white font-bold text-xs sm:text-sm rounded-xl shadow-sm hover:bg-slate-900 transition-colors"
@@ -86,7 +86,7 @@ export const AboutSection: React.FC = () => {
           </a>
 
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/kjeevankumar944/"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 px-4 py-2.5 bg-blue-600 text-white font-bold text-xs sm:text-sm rounded-xl shadow-sm hover:bg-blue-700 transition-colors"
